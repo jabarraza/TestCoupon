@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CouponTest</name>
+    </assembly>
+    <members>
+        <member name="M:CouponTest.Controllers.MercadoLibreController.Post(CouponTest.Entities.Items)">
+            <summary>
+            post method that obtains the amount of items based on the amount of the coupon
+            </summary>
+            <param name="items"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CouponTest.Controllers.MercadoLibreController.Get">
+            <summary>
+            get method that gets all items by favorite
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CouponTest.Controllers.MercadoLibreController.GetItems(System.String)">
+            <summary>
+            get method that gets all items by Id (favorite)
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CouponTest.Models.IServiceApi">
+            <summary>
+            Interface que se contiene declaraciones de metodos
+            </summary>
+        </member>
+    </members>
+</doc>
