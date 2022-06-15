@@ -7,8 +7,8 @@ Api generada en Visual Studio 2022 con .NET 5.0 con una arquitectura MVC ademas 
 
 ### Prerequisitos
 
-Visual Studio
-.NET 5.0
+1. Visual Studio 2022
+2. .NET 5.0
 
 ### Instalacion
 
